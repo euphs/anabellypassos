@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 
 - 🔭 Hoje trabalho com front-end 
 - 🌱 estudando java script
-- 📫 How to reach me: anabellybel123@gmai.com
+- 📫 How to reach me: anabellybel123@gmail.com
 - 😄 Pronouns:ela/dela
